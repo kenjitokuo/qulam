@@ -1,0 +1,6 @@
+context:
+x : 'a
+y : 'b
+
+term:
+fst (x, y)

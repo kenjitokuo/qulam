@@ -1,0 +1,7 @@
+context:
+  x : 'a
+  y : 'b
+  z : 'c
+
+term:
+  fst (snd (x, y, z))

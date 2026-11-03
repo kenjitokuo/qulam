@@ -1,0 +1,5 @@
+context:
+k : 'b -> Bot
+
+term:
+tau (\x : 'b -> x) (k)

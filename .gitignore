@@ -1,0 +1,13 @@
+# Stack / Cabal build artifacts
+.stack-work/
+dist/
+dist-newstyle/
+.ghc/
+
+# GHC build artifacts
+*.o
+*.hi
+
+# Editor / OS
+.DS_Store
+Thumbs.db

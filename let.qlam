@@ -1,0 +1,8 @@
+context:
+  x : 'a
+  y : 'b
+
+term:
+  let u = (x, y) in
+  let v = fst u in
+    v

@@ -1,0 +1,4 @@
+context:
+
+term:
+\x : 'a -> x

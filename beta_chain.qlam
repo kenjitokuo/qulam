@@ -1,0 +1,6 @@
+context:
+x : 'a
+y : 'a
+
+term:
+fst ((\z : 'a -> z) x, y)
